@@ -10,8 +10,13 @@ This project is simple Lorem ipsum dolor generator.
 	
 ## Technologies
 Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
+* Pygame version: 2.6.0
+* Python3 version: 3.13.9
 
 ## Setup
+Pygame is included as part of the Python package when downloaded.
+1. Head to Python.org on your browser
+2. Navigate to Downloads, and however your mouse over the option.
+3. Depending on your OS, it will present you with the option "Download for Windows/macOS", click on Python 3.14
+4. Once the download window has appeared, ensure that "Use admin privileges when installing py.exe" and "Add python.exe to PATH" is selected, then press "Install now"
+5. 
