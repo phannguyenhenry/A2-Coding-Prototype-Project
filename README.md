@@ -18,5 +18,4 @@ Pygame is included as part of the Python package when downloaded.
 1. Head to Python.org on your browser
 2. Navigate to Downloads, and hover your mouse over the option.
 3. Depending on your OS, it will present you with the option "Download for Windows/macOS", click on Python 3.14
-4. Once the download window has appeared, ensure that "Use admin privileges when installing py.exe" and "Add python.exe to PATH" is selected, then press "Install now"
-5. 
+4. **Crucial Step:** Once the download window has appeared, ensure that "Use admin privileges when installing py.exe" and "Add python.exe to PATH" is selected, then press "Install now".
