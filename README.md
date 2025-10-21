@@ -12,7 +12,7 @@ This project is simple Lorem ipsum dolor generator.
 ## Technologies
 Project is created with:
 * Pygame version: 2.6.0
-* Python3 version: 3.13.9
+* Python3 version: 3.14.0
 
 ## Setup
 Pygame is included as part of the Python package when downloaded.
