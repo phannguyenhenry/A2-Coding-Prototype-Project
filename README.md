@@ -23,3 +23,6 @@ Pygame is included as part of the Python package when downloaded.
 6. Depending on your OS, open either in the Windows home or Mac's Launchpad, type "cmd" or "terminal" respectively.
 7. Type "pip install pygame" and wait for the download to complete.
 8. All good, your system is now set up with Pygame's library!
+
+## To play:
+Compatible with any IDE, but Microsoft Visual Studio Code is recommended.
