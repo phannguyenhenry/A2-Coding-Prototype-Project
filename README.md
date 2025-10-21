@@ -4,6 +4,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [To play](#to-play)
 
 ## General info
 This project is simple Lorem ipsum dolor generator.
