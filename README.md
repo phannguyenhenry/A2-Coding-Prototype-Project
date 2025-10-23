@@ -13,6 +13,7 @@ This code prototype project features a 2D game that tests your reflex, reaction 
 Project is created with:
 * Pygame version: 2.6.1
 * Python3 version: 3.13.7
+* Microsoft Visual Studio Code
 
 ## Setup
 Pygame is included as part of the Python package when downloaded.
@@ -26,4 +27,8 @@ Pygame is included as part of the Python package when downloaded.
 8. All good, your system is now set up with Pygame's library!
 
 ## To play:
-Compatible with any IDE, but Microsoft Visual Studio Code is recommended.
+Compatible with any IDE, but Microsoft Visual Studio Code is recommended for instructional purposes.
+1. Once you have opened Microsoft Visual Studio Code, navigate to the Extensions option on the left-hand side of the menu (the icon of 3 stacked blocks with one rotated).
+2. Search "Python", and select the "Python" package verified by Microsoft's blue tick.
+3. Click on install.
+4. Once that is done
