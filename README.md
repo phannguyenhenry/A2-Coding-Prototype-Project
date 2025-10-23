@@ -20,7 +20,7 @@ Project is created with:
 Pygame is included as part of the Python package when downloaded.
 1. Head to Python.org on your browser
 2. Navigate to Downloads.
-3. **CRUCIAL STEP:** Search for Python 3.13.9 (Not compatible with 3.14.0 yet so please ignore this version of Python).
+3. **CRUCIAL STEP:** Search for Python 3.13.9 (Please ignore 3.14.0 when prompted, as this version is not compatible with Pygame yet).
 4. **CRUCIAL STEP:** Once the download window has appeared, ensure that "Use admin privileges when installing py.exe" and "Add python.exe to PATH" is selected, then click "Install now".
 5. Once all processes are complete, close the download window.
 6. Depending on your OS, open either in the Windows home or Mac's Launchpad, type "cmd" or "terminal" respectively.
