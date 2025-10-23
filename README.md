@@ -24,7 +24,7 @@ Pygame is included as part of the Python package when downloaded.
 4. **CRUCIAL STEP:** Once the download window has appeared, ensure that "Use admin privileges when installing py.exe" and "Add python.exe to PATH" is selected, then click "Install now".
 5. Once all processes are complete, close the download window.
 6. Depending on your OS, open either in the Windows home or Mac's Launchpad, type "cmd" or "terminal" respectively.
-7. Type "pip install pygame-ce", enter, and wait for the download to complete.
+7. Type "pip install pygame-ce", press enter, and wait for the download to complete.
 8. Your system is now set up with Pygame's library!
 
 ## Microsoft Visual Studio Code Setup:
