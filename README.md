@@ -42,6 +42,7 @@ Compatible with any IDE, but Microsoft Visual Studio Code is recommended for ins
 
 ## To Play:
 You can select main_menu to start the game from the Main Menu screen. Alternatively, you can access target_clicking and decision_making as separate scripts as well.
+
 To run the script, click on the small triangle on the top right corner that should say "Run Python File in Dedicated Terminal" when hovered over.
 
 Your points will be printed to the console at the bottom of your screen upon each session completing. 
