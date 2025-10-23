@@ -13,7 +13,7 @@ Mindex Benchmark is a code prototype project featuring a 2D game that tests your
 ## Technologies
 Project is created with:
 * Pygame-CE version: 2.5.6
-* Python3 version: 3.13.9
+* Python3 version: 3.13.7
 * Microsoft Visual Studio Code
 
 ## Setting up Pygame
