@@ -8,7 +8,7 @@
 * [To Play](#to-play)
 
 ## General info
-This code prototype project features a 2D game that tests your reflex, reaction time, speed, and precision.
+Mindex Benchmark is a code prototype project featuring a 2D game that tests your reflex, reaction time, speed, and precision.
 	
 ## Technologies
 Project is created with:
